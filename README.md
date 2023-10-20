@@ -3,7 +3,7 @@
 Gett, previously known as GetTaxi, is an Israeli-developed technology platform solely focused on corporate Ground Transportation Management (GTM). They have an application where clients can order taxis, and drivers can accept their rides (offers). At the moment, when the client clicks the Order button in the application, the matching system searches for the most relevant drivers and offers them the order. In this task, we would like to investigate some matching metrics for orders that did not completed successfully, i.e., the customer didn't end up getting a car. 
 </body>
 <ol>
-<li>Python code (https://github.com/malikazmir/Analysis-order-failed-gojek/blob/main/project_python1.ipynb)</li>
+<li>Python code (https://github.com/malikazmir/Analysis-order-failed-Gett-Taxi/blob/main/project_python1.ipynb)</li>
 <li>Power BI Visualization (https://app.powerbi.com/links/DzMZjw6V0q?ctid=57d027a5-c6b8-40ac-bb97-91828c1b50a3&pbi_source=linkShare)</li>
 </ol>
 
